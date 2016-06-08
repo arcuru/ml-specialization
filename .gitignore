@@ -1,0 +1,6 @@
+# Ipython notebook tmp files
+.ipynb_checkpoints/
+
+# Ignore unpacked data
+home_data.gl/
+amazon_baby.gl/
